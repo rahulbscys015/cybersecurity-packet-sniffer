@@ -1,0 +1,38 @@
+timestamp,summary,src_ip,dst_ip,src_location,dst_location
+2025-08-02 08:50:15.374796,Ether / IP / TCP 192.168.10.11:58001 > 57.155.141.113:https A,192.168.10.11,57.155.141.113,GeoIP not available,GeoIP not available
+2025-08-02 08:50:15.536344,Ether / IP / TCP 20.50.80.209:https > 192.168.10.11:58002 SA,20.50.80.209,192.168.10.11,GeoIP not available,GeoIP not available
+2025-08-02 08:50:15.540275,Ether / IP / TCP 192.168.10.11:58002 > 20.50.80.209:https A,192.168.10.11,20.50.80.209,GeoIP not available,GeoIP not available
+2025-08-02 08:50:15.545363,Ether / IP / TCP 192.168.10.11:58002 > 20.50.80.209:https PA / Raw,192.168.10.11,20.50.80.209,GeoIP not available,GeoIP not available
+2025-08-02 08:50:15.742868,Ether / IP / TCP 20.50.80.209:https > 192.168.10.11:58002 PA / Raw,20.50.80.209,192.168.10.11,GeoIP not available,GeoIP not available
+2025-08-02 08:50:15.748182,Ether / IP / TCP 192.168.10.11:58002 > 20.50.80.209:https PA / Raw,192.168.10.11,20.50.80.209,GeoIP not available,GeoIP not available
+2025-08-02 08:50:15.948774,Ether / IP / TCP 20.50.80.209:https > 192.168.10.11:58002 A / Raw,20.50.80.209,192.168.10.11,GeoIP not available,GeoIP not available
+2025-08-02 08:50:15.955696,Ether / IP / TCP 20.50.80.209:https > 192.168.10.11:58002 A / Raw,20.50.80.209,192.168.10.11,GeoIP not available,GeoIP not available
+2025-08-02 08:50:15.962249,Ether / IP / TCP 20.50.80.209:https > 192.168.10.11:58002 A / Raw,20.50.80.209,192.168.10.11,GeoIP not available,GeoIP not available
+2025-08-02 08:50:15.967956,Ether / IP / TCP 20.50.80.209:https > 192.168.10.11:58002 PA / Raw,20.50.80.209,192.168.10.11,GeoIP not available,GeoIP not available
+2025-08-02 08:50:15.974001,Ether / IP / TCP 192.168.10.11:58002 > 20.50.80.209:https A,192.168.10.11,20.50.80.209,GeoIP not available,GeoIP not available
+2025-08-02 08:50:15.981364,Ether / IP / TCP 192.168.10.11:58002 > 20.50.80.209:https A / Raw,192.168.10.11,20.50.80.209,GeoIP not available,GeoIP not available
+2025-08-02 08:50:15.987399,Ether / IP / TCP 192.168.10.11:58002 > 20.50.80.209:https A / Raw,192.168.10.11,20.50.80.209,GeoIP not available,GeoIP not available
+2025-08-02 08:50:15.995249,Ether / IP / TCP 192.168.10.11:58002 > 20.50.80.209:https A / Raw,192.168.10.11,20.50.80.209,GeoIP not available,GeoIP not available
+2025-08-02 08:50:16.002320,Ether / IP / TCP 192.168.10.11:58002 > 20.50.80.209:https A / Raw,192.168.10.11,20.50.80.209,GeoIP not available,GeoIP not available
+2025-08-02 08:50:16.008392,Ether / IP / TCP 192.168.10.11:58002 > 20.50.80.209:https A / Raw,192.168.10.11,20.50.80.209,GeoIP not available,GeoIP not available
+2025-08-02 08:50:16.016185,Ether / IP / TCP 192.168.10.11:58002 > 20.50.80.209:https PA / Raw,192.168.10.11,20.50.80.209,GeoIP not available,GeoIP not available
+2025-08-02 08:50:16.254915,Ether / IP / TCP 20.50.80.209:https > 192.168.10.11:58002 PA / Raw,20.50.80.209,192.168.10.11,GeoIP not available,GeoIP not available
+2025-08-02 08:50:16.259460,Ether / IP / TCP 20.50.80.209:https > 192.168.10.11:58002 A,20.50.80.209,192.168.10.11,GeoIP not available,GeoIP not available
+2025-08-02 08:50:16.265279,Ether / IP / TCP 20.50.80.209:https > 192.168.10.11:58002 A,20.50.80.209,192.168.10.11,GeoIP not available,GeoIP not available
+2025-08-02 08:50:16.270516,Ether / IP / TCP 20.50.80.209:https > 192.168.10.11:58002 FPA / Raw,20.50.80.209,192.168.10.11,GeoIP not available,GeoIP not available
+2025-08-02 08:50:16.275434,Ether / IP / TCP 192.168.10.11:58002 > 20.50.80.209:https A,192.168.10.11,20.50.80.209,GeoIP not available,GeoIP not available
+2025-08-02 08:50:16.281105,Ether / IP / TCP 192.168.10.11:58002 > 20.50.80.209:https PA / Raw,192.168.10.11,20.50.80.209,GeoIP not available,GeoIP not available
+2025-08-02 08:50:16.286537,Ether / IP / TCP 192.168.10.11:58002 > 20.50.80.209:https FA,192.168.10.11,20.50.80.209,GeoIP not available,GeoIP not available
+2025-08-02 08:50:16.456201,Ether / IP / TCP 20.50.80.209:https > 192.168.10.11:58002 A,20.50.80.209,192.168.10.11,GeoIP not available,GeoIP not available
+2025-08-02 08:50:21.716444,Ether / IP / TCP 192.168.10.11:57915 > 52.182.141.63:https PA / Raw,192.168.10.11,52.182.141.63,GeoIP not available,GeoIP not available
+2025-08-02 08:50:21.718654,Ether / IP / TCP 192.168.10.11:57915 > 52.182.141.63:https PA / Raw,192.168.10.11,52.182.141.63,GeoIP not available,GeoIP not available
+2025-08-02 08:50:21.720543,Ether / IP / TCP 192.168.10.11:57915 > 52.182.141.63:https A / Raw,192.168.10.11,52.182.141.63,GeoIP not available,GeoIP not available
+2025-08-02 08:50:21.723374,Ether / IP / TCP 192.168.10.11:57915 > 52.182.141.63:https PA / Raw,192.168.10.11,52.182.141.63,GeoIP not available,GeoIP not available
+2025-08-02 08:50:22.090057,Ether / IP / TCP 52.182.141.63:https > 192.168.10.11:57915 A,52.182.141.63,192.168.10.11,GeoIP not available,GeoIP not available
+2025-08-02 08:50:22.092285,Ether / IP / TCP 52.182.141.63:https > 192.168.10.11:57915 PA / Raw,52.182.141.63,192.168.10.11,GeoIP not available,GeoIP not available
+2025-08-02 08:50:22.095464,Ether / IP / TCP 52.182.141.63:https > 192.168.10.11:57915 A,52.182.141.63,192.168.10.11,GeoIP not available,GeoIP not available
+2025-08-02 08:50:22.103460,Ether / IP / TCP 52.182.141.63:https > 192.168.10.11:57915 A,52.182.141.63,192.168.10.11,GeoIP not available,GeoIP not available
+2025-08-02 08:50:22.132067,Ether / IP / TCP 192.168.10.11:57915 > 52.182.141.63:https A,192.168.10.11,52.182.141.63,GeoIP not available,GeoIP not available
+2025-08-02 08:50:22.498194,Ether / IP / TCP 52.182.141.63:https > 192.168.10.11:57915 PA / Raw,52.182.141.63,192.168.10.11,GeoIP not available,GeoIP not available
+2025-08-02 08:50:22.500666,Ether / IP / TCP 192.168.10.11:57915 > 52.182.141.63:https PA / Raw,192.168.10.11,52.182.141.63,GeoIP not available,GeoIP not available
+2025-08-02 08:50:22.907389,Ether / IP / TCP 52.182.141.63:https > 192.168.10.11:57915 A,52.182.141.63,192.168.10.11,GeoIP not available,GeoIP not available
