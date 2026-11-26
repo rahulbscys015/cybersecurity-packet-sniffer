@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Local configuration and generated artefacts
+config/blacklists.json
+config/settings.json
+logs/
+*.jsonl
+GeoLite2-City.mmdb
+GeoLite2-City.tar.gz
+exported_logs.csv
+packet_capture.csv
+packet_capture.json
+logs_*.json
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,12 @@
+{
+  "domains": [
+    "malicious.com",
+    "phishing.net",
+    "badsite.org"
+  ],
+  "ip_addresses": [
+    "45.33.32.156",
+    "123.45.67.89",
+    "198.51.100.23"
+  ]
+}

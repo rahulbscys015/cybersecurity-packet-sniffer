@@ -1,0 +1,2 @@
+# Optional: enables city/country enrichment when GeoLite2-City.mmdb is present.
+geoip2>=4.2.0

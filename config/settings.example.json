@@ -1,0 +1,4 @@
+{
+  "admin_password_sha256": "REPLACE_WITH_64_CHAR_SHA256_HASH_OF_YOUR_PASSWORD",
+  "geoip_db_path": "GeoLite2-City.mmdb"
+}
